@@ -7,7 +7,7 @@ function Orderslist({navigation,route}) {
       <View style={{ flex: 1, justifyContent: 'flex-start',margin:50 }}>
         <Text style={{fontSize:22,fontWeight:'600',marginBottom:20}}>Orders list</Text>
         <View style={{flexDirection:'row',justifyContent:'space-between',borderWidth:2,padding:20}}>
-         <Text style={{fontSize:18}}>Order ID</Text>
+         <Text style={{fontSize:18}}>ID</Text>
          <Text style={{fontSize:18}}>Products</Text>
          <Text style={{fontSize:18}}>Total Price</Text>
         </View>

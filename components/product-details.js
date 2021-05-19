@@ -5,7 +5,7 @@ function Productdetail({navigation,route}) {
     return (
         <SafeAreaView>
             <ScrollView>
-      <View style={{ flex: 1, justifyContent:'flex-start',marginTop:50}}>
+      <View style={{ flex: 1, justifyContent:'flex-start',marginTop:5}}>
         <View>
         <Image
               style={{width:450,height:600}}

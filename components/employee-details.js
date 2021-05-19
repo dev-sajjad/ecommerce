@@ -5,7 +5,7 @@ function Employeedetail({navigation,route}) {
     return (
         <SafeAreaView>
             <ScrollView>
-      <View style={{ flex: 1, justifyContent:'flex-start',marginTop:20}}>
+      <View style={{ flex: 1, justifyContent:'flex-start',marginTop:5}}>
         <View>
         <View >
         <Image

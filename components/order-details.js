@@ -6,7 +6,7 @@ function Orderdetail({navigation,route}) {
     return (
         <SafeAreaView>
             <ScrollView>
-      <View style={{ flex: 1, justifyContent:'flex-start',marginTop:50}}>
+      <View style={{ flex: 1, justifyContent:'flex-start',marginTop:5}}>
         <View style={{flexDirection:'row',justifyContent:'space-between',borderWidth:2,padding:20}}>
          <Text style={{fontSize:18}}>Order ID :</Text>
          <Text style={{fontSize:18}}>{route.params.id}</Text>
